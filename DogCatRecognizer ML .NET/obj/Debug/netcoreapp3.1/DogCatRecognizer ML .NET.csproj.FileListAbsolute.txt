@@ -1,0 +1,45 @@
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.exe
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.deps.json
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.runtimeconfig.json
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.pdb
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET_MarkupCompile.cache
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET_MarkupCompile.lref
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.g.resources
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.pdb
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.ImageAnalytics.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.TensorFlow.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Microsoft.ML.Vision.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\NumSharp.Core.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\TensorFlow.NET.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libtensorflow.so
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libtensorflow_framework.so.1
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtensorflow.dylib
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtensorflow_framework.1.dylib
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tensorflow.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NETML.Model.dll
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\bin\Debug\netcoreapp3.1\DogCatRecognizer ML .NETML.Model.pdb
+C:\Users\Admin\source\repos\DogCatRecognizer ML .NET\obj\Debug\netcoreapp3.1\DogCatRecognizer ML .NET.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogCatRecognizer ML .NET", "DogCatRecognizer ML .NET.csproj", "{6F3A6C94-04EB-4F50-86D7-D719ABE74A9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogCatRecognizer ML .NETML.Model", "..\DogCatRecognizer ML .NETML.Model\DogCatRecognizer ML .NETML.Model.csproj", "{8FFF8673-B172-4825-8A42-321F37BD02AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogCatRecognizer ML .NETML.ConsoleApp", "..\DogCatRecognizer ML .NETML.ConsoleApp\DogCatRecognizer ML .NETML.ConsoleApp.csproj", "{BD867EC2-CA7B-4DA4-9BC4-44D1B4C6BCB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F3A6C94-04EB-4F50-86D7-D719ABE74A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3A6C94-04EB-4F50-86D7-D719ABE74A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3A6C94-04EB-4F50-86D7-D719ABE74A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3A6C94-04EB-4F50-86D7-D719ABE74A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFF8673-B172-4825-8A42-321F37BD02AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFF8673-B172-4825-8A42-321F37BD02AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFF8673-B172-4825-8A42-321F37BD02AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFF8673-B172-4825-8A42-321F37BD02AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD867EC2-CA7B-4DA4-9BC4-44D1B4C6BCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD867EC2-CA7B-4DA4-9BC4-44D1B4C6BCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD867EC2-CA7B-4DA4-9BC4-44D1B4C6BCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD867EC2-CA7B-4DA4-9BC4-44D1B4C6BCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3E8646-2411-4A29-8F9E-48B790D6D4DF}
+	EndGlobalSection
+EndGlobal
