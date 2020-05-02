@@ -3891,11 +3891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer ML .NET\\DogCatRecognizer ML .NET.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer  in ML .NET\\DogCatRecognizer ML .NET\\DogCatRecognizer ML .NET.csproj",
       "projectName": "DogCatRecognizer ML .NET",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer ML .NET\\DogCatRecognizer ML .NET.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer  in ML .NET\\DogCatRecognizer ML .NET\\DogCatRecognizer ML .NET.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer ML .NET\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer  in ML .NET\\DogCatRecognizer ML .NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3914,8 +3914,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer ML .NETML.Model\\DogCatRecognizer ML .NETML.Model.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer ML .NETML.Model\\DogCatRecognizer ML .NETML.Model.csproj"
+            "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer  in ML .NET\\DogCatRecognizer ML .NETML.Model\\DogCatRecognizer ML .NETML.Model.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\DogCatRecognizer  in ML .NET\\DogCatRecognizer ML .NETML.Model\\DogCatRecognizer ML .NETML.Model.csproj"
             }
           }
         }

@@ -7,3 +7,12 @@ C:\Users\Admin\source\repos\DogCatRecognizer ML .NETML.Model\obj\Release\netstan
 C:\Users\Admin\source\repos\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.AssemblyInfo.cs
 C:\Users\Admin\source\repos\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.dll
 C:\Users\Admin\source\repos\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.pdb
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\bin\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.deps.json
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\bin\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.dll
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\bin\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.pdb
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.dll
+C:\Users\Admin\source\repos\DogCatRecognizer  in ML .NET\DogCatRecognizer ML .NETML.Model\obj\Release\netstandard2.0\DogCatRecognizer ML .NETML.Model.pdb
